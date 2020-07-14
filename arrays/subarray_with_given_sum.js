@@ -37,7 +37,7 @@ class SubArrayWithGivenSum {
 
     constructor() { }
     test() {
-        console.log('test');
+        //console.log('test');
         return 'success';
     }
 
